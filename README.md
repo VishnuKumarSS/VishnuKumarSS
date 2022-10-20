@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnukumarss&label=Profile%20views&color=0e75b6&style=flat" alt="vishnukumarss" /> </p>
 
-- 🌱 I’m currently learning **Python**
-
-- 📫 How to reach me **vishnukumarss941@gmail.com**
+- 📫 Reach me at **vishnukumarss941@gmail.com**
 
 - ⚡ Fun fact **Coding is fun!**
 
