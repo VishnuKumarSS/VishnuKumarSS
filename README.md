@@ -5,4 +5,4 @@
 
 - **Coding is fun!**
 
-- **<a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="blank">LINKED IN</a>**
+- **<a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank">LINKED IN</a>**
