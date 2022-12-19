@@ -4,7 +4,7 @@
 - **vishnukumarss941@gmail.com**
 - <p><a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank">LINKED IN</a></p>
 <div>
-  <h1>Hi👋🏼, I’m Vishnu Kumar,
+  <h1>Hi👋🏼 I’m Vishnu Kumar,
     </br>
   Full Stack Developer</h1>
   <p>I design and build beautiful websites and apps for businesses around the globe. Can code in Python, Django, Flask, JavaScript, ReactJS.
