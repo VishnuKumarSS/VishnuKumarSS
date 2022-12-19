@@ -22,27 +22,27 @@
     SKILLS
   </h1>
   <div>
-    <h3>
+    <h5>
       PROGRAMMING LANGUAGES
-    </h3>
+    </h5>
     <p>Python, JavaScript, HTML, CSS, Django, Flask, ReactJS</p>
   </div>
   <div>
-    <h3>
+    <h5>
       DATABASE MANAGEMENT
-    </h3>
+    </h5>
     <p>MySQL, PostgreSQL</p>
   </div>
   <div>
-    <h3>
+    <h5>
       SOFTWARE TOOLS
-    </h3>
+    </h5>
     <p>Figma, Docker, Postman, VS Code, Adobe Photoshop, Premiere Pro</p>
   </div>
   <div>
-    <h3>
+    <h5>
       OPERATING SYSTEM
-    </h3>
+    </h5>
     <p>WINDOWS, LINUX</p>
   </div>
 </div>
