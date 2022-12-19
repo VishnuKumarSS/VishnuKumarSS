@@ -11,7 +11,7 @@
 </div>
 <ul>
   <li>
-    <a href="mailto:vishnukumarss.work@gmail.com" target="_blank" rel="noopener">MAIL</a>
+    <a href="mailto:vishnukumarss.work@gmail.com" target="_blank" >MAIL</a>
   </li>
   <li>
     <a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank" rel="noopener">LINKED IN</a>    
@@ -22,28 +22,27 @@
     SKILLS
   </h1>
   <div>
-    <h1>
+    <h3>
       PROGRAMMING LANGUAGES
-    </h1>
+    </h3>
     <p>Python, JavaScript, HTML, CSS, Django, Flask, ReactJS</p>
   </div>
   <div>
-    <h1>
+    <h3>
       DATABASE MANAGEMENT
-    </h1>
+    </h3>
     <p>MySQL, PostgreSQL</p>
   </div>
   <div>
-    <h1>
+    <h3>
       SOFTWARE TOOLS
-    </h1>
+    </h3>
     <p>Figma, Docker, Postman, VS Code, Adobe Photoshop, Premiere Pro</p>
   </div>
-  <div className="flex flex-col items-center text-center gap-2 bg-mywhite p-3 rounded-xl w-full">
-    <h1 className="font-poppins font-extrabold">
-      <span className="text-myred">OPERATING </span>
-      SYSTEM
-    </h1>
+  <div>
+    <h3>
+      OPERATING SYSTEM
+    </h3>
     <p>WINDOWS, LINUX</p>
   </div>
 </div>
