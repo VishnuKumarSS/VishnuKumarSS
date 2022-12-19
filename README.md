@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
 <div>
-  <h1>Hi👋🏼 I’m <span style="color:#fcd34d;">Vishnu Kumar</span>,
+  <h1>Hi👋🏼 I’m <span style="color:yellow;">Vishnu Kumar</span>,
     </br>
   Full Stack Developer</h1>
   <p>I design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS.
