@@ -9,9 +9,10 @@
     <br />Passionate about UI/UX.
   </p>
 </div>
-- vishnukumarss941@gmail.com
-- <p><a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank">LINKED IN</a></p>
-
+<ul>
+  <a href="mailto:vishnukumarss941@gmail.com" target="_blank" rel="noopener">MAIL</a>
+  <a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank" rel="noopener">LINKED IN</a>
+</ul>
 <div>
   <h1>
     SKILLS
