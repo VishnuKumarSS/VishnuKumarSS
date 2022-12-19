@@ -4,7 +4,7 @@
   <h1>Hi👋🏼 I’m Vishnu Kumar,
     </br>
   Full Stack Developer</h1>
-  <p>I design and build beautiful websites and apps for businesses around the globe. Can code in Python, Django, Flask, JavaScript, ReactJS.
+  <p>I design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS.
     <br />Passionate about UI/UX.
   </p>
 </div>
