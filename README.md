@@ -10,8 +10,12 @@
   </p>
 </div>
 <ul>
-  <a href="mailto: vishnukumarss.work@gmail.com" target="_blank" rel="noopener">MAIL</a>
-  <a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank" rel="noopener">LINKED IN</a>
+  <li>
+    <a href="mailto:vishnukumarss.work@gmail.com" target="_blank" rel="noopener">MAIL</a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank" rel="noopener">LINKED IN</a>    
+  </li>
 </ul>
 <div>
   <h1>
