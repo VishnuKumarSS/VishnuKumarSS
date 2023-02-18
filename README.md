@@ -22,9 +22,3 @@ while life:
     code(ideas)
     sleep(dreams)   
 ```
-
-<div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=VishnuKumarSS&count_private=true&theme=dark&show_icons=true"/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VishnuKumarSS&theme=dark&ring=79FE96&currStreakLabel=79FE96&fire=79FE96)](https://git.io/streak-stats)
-</div>
