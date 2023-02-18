@@ -14,7 +14,7 @@ Check out my [**Portfolio Website**](https://vishnukumarss.vercel.app/ "VishnuKu
 - 💬 Ask me about **Full Stack Development**
 - 🏆 2023 Goals: Contribute more to Open Source Projects
 - 👯 I look forward to collaborating on developing Landing pages, Full Stack Web apps, and Backend servers.
-- 📫 How to reach me: Click [**here**](vishnukumarss.work@gmail.com) to Mail or go to contact form of my [**website**](https://vishnukumarss.vercel.app/ "Contact Form").
+- 📫 How to reach me: Mail to **vishnukumarss.work@gmail.com** or go to contact form of my [**website**](https://vishnukumarss.vercel.app/ "Contact Form").
 
 ```python
 while life:
