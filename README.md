@@ -1,47 +1,30 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
-<div>
-  <h1>Hi👋🏼 I’m Vishnu Kumar,
-    </br>
-  Full Stack Developer</h1>
-  <p>I design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS.
-    <br />Passionate about UI/UX.
-  </p>
-</div>
-<ul>
-  <li>
-    <a href="mailto:vishnukumarss.work@gmail.com" target="_blank">MAIL</a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/vishnu-kumar-450233212/" target="_blank" rel="noopener">LINKED IN</a>    
-  </li>
-</ul>
-<div>
-  <h1>
-    SKILLS
-  </h1>
-  <div>
-    <h4>
-      PROGRAMMING LANGUAGES
-    </h4>
-    <p>Python, JavaScript, HTML, CSS, Django, Flask, ReactJS</p>
-  </div>
-  <div>
-    <h4>
-      DATABASE MANAGEMENT
-    </h4>
-    <p>MySQL, PostgreSQL</p>
-  </div>
-  <div>
-    <h4>
-      SOFTWARE TOOLS
-    </h4>
-    <p>Figma, Docker, Postman, VS Code, Adobe Photoshop, Premiere Pro</p>
-  </div>
-  <div>
-    <h4>
-      OPERATING SYSTEM
-    </h4>
-    <p>WINDOWS, LINUX</p>
-  </div>
+## **Hi👋🏻 I’m Vishnu Kumar**,
+
+A Full Stack Developer who loves to design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS. \
+Passionate about UI/UX.
+
+<img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
+
+Check out my [**Portfolio Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfolio").
+
+- 💻 I make programming Content on [**Instagram**](https://www.instagram.com/starzcodes/)
+- 🌱 I’m currently learning **DSA**
+- 💬 Ask me about **Full Stack Development**
+- 🏆 2023 Goals: Contribute more to Open Source Projects
+- 👯 I look forward to collaborating on developing Landing pages, Full Stack Web apps, and Backend servers.
+- 📫 How to reach me: Mail to **vishnukumar.work@gmail.com** or go to contact form of my [**website**](https://vishnukumarss.vercel.app/ "Contact Form").
+
+```python
+while life:
+    eat(food)
+    code(ideas)
+    sleep(dreams)   
+```
+
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=VishnuKumarSS&count_private=true&theme=dark&show_icons=true"/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VishnuKumarSS&theme=dark&ring=79FE96&currStreakLabel=79FE96&fire=79FE96)](https://git.io/streak-stats)
 </div>
