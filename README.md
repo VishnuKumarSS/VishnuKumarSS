@@ -10,7 +10,7 @@ Passionate about UI/UX.
 Check out my [**Portfolio Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfolio").
 
 - 💻 I make programming content on [**Instagram**](https://www.instagram.com/starzcodes/)
-- 🌱 I’m currently learning **DSA**
+- 🌱 Currently learning **DSA**
 - 💬 Ask me about **Full Stack Development**
 - 🏆 2023 Goals: Contribute more to Open Source Projects
 - 👯 I look forward to collaborating on developing Landing pages, Full Stack Web apps, and Backend servers.
