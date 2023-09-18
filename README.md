@@ -1,6 +1,7 @@
 ## **Hey, I’m Vishnu Kumar👋🏻**
 
-A Full Stack Developer who loves to design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS. \
+A Full Stack Developer who loves to design and build beautiful full-stack web applications.\
+Can write clean code using Python, Django, Flask, JavaScript, ReactJS.\
 Passionate about UI/UX.
 
 <img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
