@@ -1,13 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
-
-## **Hi👋🏻 I’m Vishnu Kumar**
+## **Hey, I’m Vishnu Kumar👋🏻**
 
 A Full Stack Developer who loves to design and build beautiful websites and apps for businesses around the globe. Can write clean code using Python, Django, Flask, JavaScript, ReactJS. \
 Passionate about UI/UX.
 
 <img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
 
-Check out my [**Portfolio Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfolio").
+Check out my [**Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfolio") to learn more about me.
 
 - 💻 I make programming content on [**Instagram**](https://www.instagram.com/starzcodes/)
 - 🌱 Currently learning **DSA**
