@@ -9,10 +9,9 @@ Check out my [**Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfo
 
 - 💻 I make programming content on [**Instagram**](https://www.instagram.com/starzcodes/)
 - 🌱 Currently learning **DSA**
-- 💬 Ask me about **Full Stack Development**
+- 💬 Improving my skills in **Full Stack Development** day to day
 - 🏆 2023 Goals: Contribute more to Open Source Projects
 - 👯 I look forward to collaborating on developing Landing pages, Full Stack Web apps, and Backend servers.
-- 📫 How to reach me: Mail to **vishnukumarss.work@gmail.com** or go to contact form of my [**website**](https://vishnukumarss.vercel.app/ "Contact Form").
 
 ## 📫 Contact
 For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vishnu-kumar-450233212/).\
