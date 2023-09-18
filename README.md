@@ -15,8 +15,7 @@ Check out my [**Website**](https://vishnukumarss.vercel.app/ "VishnuKumar Portfo
 - 📫 How to reach me: Mail to **vishnukumarss.work@gmail.com** or go to contact form of my [**website**](https://vishnukumarss.vercel.app/ "Contact Form").
 
 ## 📫 Contact
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vishnu-kumar-450233212/).
-
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/vishnu-kumar-450233212/).\
 For professional inquiries, reach out via Email at [vishnukumarss.work@gmail.com](mailto:vishnukumarss.work@gmail.com).
  
 ```python
