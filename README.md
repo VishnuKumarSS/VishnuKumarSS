@@ -10,7 +10,7 @@ A Software Engineer specializing in crafting web applications with a focus on us
 - Currently learning **DSA** to further enhance my skills
 - Continuously enhancing my **Full Stack Development** skills
 - I create programming content on [Instagram](https://www.instagram.com/starzcodes/)
-- Excited about collaborating on the designing and development of landing pages, full-stack web applications, and backend servers
+- Excited about collaborating on the design and development projects
 
 ## 💼 Skills
 
