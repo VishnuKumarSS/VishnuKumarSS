@@ -7,17 +7,21 @@ A Software Engineer specializing in crafting captivating web applications with a
 
 🔗 **Website**: [Link](https://vishnukumar.tech "VishnuKumarSS Portfolio")
 
-- I create programming content on [**Instagram**](https://www.instagram.com/starzcodes/)
 - Currently learning **DSA** to further enhance my skills
 - Continuously enhancing my **Full Stack Development** skills
+- I create programming content on [**Instagram**](https://www.instagram.com/starzcodes/)
 - Excited about collaborating on the development of landing pages, full-stack web applications, and backend servers
 
 ## 💼 Skills
 
 **Languages**: `Python` `JavaScript` `TypeScript` `C`
+
 **Frameworks/Libraries:** `React` `Next.js` `Django` `FastAPI` `Flask` `Tailwind CSS` `Shadcn/ui`
+
 **DB:** `PostgreSQL` `MongoDB` `Redis` `Firebase` `Supabase`
+
 **Tools:** `Git` `Postman` `VS Code` `Jira` `Figma` `Adobe PS` `Adobe PP`
+
 **Miscellaneous:** `Docker` `Zustand` `Linux` `Celery` `REST services` `Web Sockets` `PyTest`
 
 ## 📫 Contact
