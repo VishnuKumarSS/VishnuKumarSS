@@ -3,8 +3,7 @@
 
 ## **Hey, I’m Vishnu Kumar!👋🏻**
 
-A Software Engineer specializing in crafting web applications with a focus on user-centric experiences. 💻 Experienced in Python, Django, Flask, JavaScript, and ReactJS, ensuring clean and elegant code.
-🎨 Dedicated to UI/UX, aiming to deliver seamless and user-friendly interactions.
+Experienced in Python, Django, Flask, JavaScript, and ReactJS for web application development, ensuring clean and robust code. Dedicated to UI/UX, aiming for a user-friendly experience.
 
 <img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
 
