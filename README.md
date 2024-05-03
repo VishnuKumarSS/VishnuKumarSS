@@ -3,7 +3,7 @@
 
 ## **Hey, I’m Vishnu Kumar!👋🏻**
 
-Experienced in Python, Django, Flask, JavaScript, and ReactJS for web application development, ensuring clean and robust code. Dedicated to UI/UX, aiming for a user-friendly experience.
+Full-stack developer with experience in writing clean and robust code. Passionate about creating user-friendly experiences through UI/UX design.
 
 <img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
 
