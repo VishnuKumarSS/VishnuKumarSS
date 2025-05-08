@@ -1,5 +1,4 @@
-![Github Banner Vishnu Kumar S S](https://github.com/VishnuKumarSS/VishnuKumarSS/assets/90044424/15b58cef-e183-48b8-9b79-e61f2108832c)
-
+![Github Banner Vishnu Kumar S S](https://github.com/user-attachments/assets/7c4d71ba-d0f0-44df-8de0-14994816ae71)
 
 ## **Hey, I’m Vishnu Kumar!👋🏻**
 
