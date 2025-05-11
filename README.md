@@ -6,7 +6,7 @@ Full-stack developer with experience in writing clean and robust code. Passionat
 
 <img src="https://komarev.com/ghpvc/?username=VishnuKumarSS" alt="VishnuKumar" />
 
-🔗 **Website**: [Link](https://vishnukumar.tech "VishnuKumarSS Portfolio")
+🔗 **Website**: [Link](https://vishnukumar-ss.tech "VishnuKumarSS Portfolio")
 
 - Currently learning **DSA** to further enhance my skills
 - Continuously enhancing my **Full Stack Development** skills
